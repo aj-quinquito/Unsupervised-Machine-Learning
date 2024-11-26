@@ -1,0 +1,4 @@
+Data:
+The original source is unknown, obtained from Arabic Handwritten Digits Dataset | Kaggle.
+
+https://www.kaggle.com/datasets/mloey1/ahdd1
